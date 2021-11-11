@@ -12,4 +12,7 @@ https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-19-30077&id=458392
 
 
 
-
+测试指南：
+1 在百度网盘中的连接下载结构化编码光场数据，将其存放于./phase_lib文件夹
+2 运行文件test_optimal_alg_for_realdata.m
+3 和一杯咖啡等待结果
