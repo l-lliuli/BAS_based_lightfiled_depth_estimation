@@ -27,5 +27,3 @@ https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-19-30077&id=458392
 四 评估系统： 输入，各种算法的结果深度矩阵，深度真值，输出：各种算法的深度估计MSE，MAD BP 指标
 五 主观图伪彩色绘图工具，保存实验数据以及结果
 
-this is the modified version
-将数据全部导入到云的内部，确保内容可以生效，也就是说，不需要其他额外的开销和操作。
